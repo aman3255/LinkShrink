@@ -1,0 +1,13 @@
+# Ignore the node_modules folder
+/node_modules/
+
+# Ignore the src folder (if you don't want to commit the source code)
+/src/
+
+
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore package-lock.json or yarn.lock (if you don't want to commit the lock file)
+package-lock.json
